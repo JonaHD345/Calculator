@@ -1,5 +1,5 @@
 # Calculator
 
-a simple Windows Form calculator made with c#
+a simple Windows Forms calculator made with c#
 
 by JonaHD345
